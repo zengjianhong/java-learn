@@ -1,4 +1,4 @@
-package com.jehon.lambda;
+package jehon.lambda;
 
 import org.junit.Test;
 

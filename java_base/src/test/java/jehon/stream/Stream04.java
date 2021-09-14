@@ -1,10 +1,9 @@
-package com.jehon.stream;
+package jehon.stream;
 
 import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.BinaryOperator;
 
 /**
  * @author jehon

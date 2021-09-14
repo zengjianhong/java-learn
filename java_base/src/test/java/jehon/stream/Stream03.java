@@ -1,4 +1,4 @@
-package com.jehon.stream;
+package jehon.stream;
 
 import org.junit.Test;
 
