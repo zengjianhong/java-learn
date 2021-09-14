@@ -11,6 +11,7 @@
     <modules>
         <module>java_base</module>
         <module>java_8</module>
+        <module>juc</module>
     </modules>
 
     <dependencies>
