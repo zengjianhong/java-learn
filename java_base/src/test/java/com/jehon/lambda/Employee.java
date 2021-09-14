@@ -1,4 +1,4 @@
-package jehon.lambda;
+package com.jehon.lambda;
 
 /**
  * @author jehon

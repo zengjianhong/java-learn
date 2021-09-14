@@ -1,6 +1,6 @@
-package jehon.stream;
+package com.jehon.stream;
 
-import jehon.lambda.Employee;
+import com.jehon.lambda.Employee;
 import org.junit.Test;
 
 import java.util.ArrayList;

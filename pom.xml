@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>java_base</module>
+        <module>java_8</module>
     </modules>
 
     <dependencies>
